@@ -387,6 +387,7 @@ Edison Shek
 - [Mian Sarim Hameed](https://github.com/MianSarimHameed)
 - [Rafael Faria](https://github.com/rafaellfaria)
 - [Anjanna Ramesh](https://github.com/Anjanna)
+- [Aayan Atiq] (https://github.com/aayan7/first-contributions)
 - [Lahiru Sudesh](https://github.com/lahirusudesh)
 - [Alex Dvorkin] (https://github.com/alexeydvr)
 - [Ellen] (https://github.com/schmellz)
